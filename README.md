@@ -4,41 +4,33 @@ Academic team project completed for CIS 3120 Programming for Analytics at Baruch
 
 ## Project Overview
 
-This repository documents my contribution to a three person Python and SQLite database application for artists, tracks, playlists, and playlist track relationships.
+This repository contains the SQL query module I contributed to a three person Python and SQLite database application for artists, tracks, playlists, and playlist track relationships.
 
-My assigned work focused on the SQL query module rather than the entire application.
+My assigned work focused on the query module rather than the entire application.
 
-## My Contribution
+## Actual Code
 
-I implemented four required SQL query functions that handled:
+[`queries.py`](queries.py) contains the four SQL query functions from my project contribution plus the standalone SQLite smoke test I used to verify them.
+
+The functions handle:
 
 * Tracks in a playlist in the correct order
-* Tracks that were not included in any playlist
+* Tracks that are not included in any playlist
 * The most frequently added track across playlists
 * Total duration for each playlist
 
-The queries used SQL concepts including JOIN, LEFT JOIN, GROUP BY, COUNT, aggregate functions, and ordering.
-
-I also tested the functions independently with an in memory SQLite database before contributing the work through a Git branch and pull request workflow.
-
-## Tools and Skills
-
-* Python
-* SQL
-* SQLite
-* Relational databases
-* JOIN and LEFT JOIN
-* GROUP BY and COUNT
-* Aggregate queries
-* Git
-* GitHub
+The queries use JOIN, LEFT JOIN, GROUP BY, COUNT, aggregate functions, ordering, and parameterized SQL.
 
 ## Original Contribution
 
-My pull request to the course project is available here:
+My original pull request to the course project is available here:
 
 https://github.com/ProfessorPatrickSlatraigh/mp02-music-starter/pull/29
 
+## Tools and Skills
+
+Python, SQL, SQLite, relational databases, Git and GitHub
+
 ## Project Context
 
-This was a three person team project. This repository documents the portion I personally contributed and does not present the complete team application as my individual work.
+This was a three person team project. This repository contains the portion I personally contributed and does not present the complete team application as my individual work.
