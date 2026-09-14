@@ -1,16 +1,16 @@
 # Music Listening Database Application Contribution
 
-Academic team project completed for CIS 3120 Programming for Analytics at Baruch College in Spring 2026.
+Academic team assignment completed for CIS 3120 Programming for Analytics at Baruch College in Spring 2026.
 
-## Project Overview
+## Overview
 
 This repository contains the SQL query module I contributed to a three person Python and SQLite database application for artists, tracks, playlists, and playlist track relationships.
 
 My assigned work focused on the query module rather than the entire application.
 
-## Actual Code
+## Code
 
-[`queries.py`](queries.py) contains the four SQL query functions from my project contribution plus the standalone SQLite smoke test I used to verify them.
+[`queries.py`](queries.py) contains the four SQL query functions from my contribution plus the standalone SQLite smoke test I used to verify them.
 
 The functions handle:
 
@@ -23,7 +23,7 @@ The queries use JOIN, LEFT JOIN, GROUP BY, COUNT, aggregate functions, ordering,
 
 ## Original Contribution
 
-My original pull request to the course project is available here:
+My original pull request to the course repository is available here:
 
 https://github.com/ProfessorPatrickSlatraigh/mp02-music-starter/pull/29
 
@@ -31,6 +31,6 @@ https://github.com/ProfessorPatrickSlatraigh/mp02-music-starter/pull/29
 
 Python, SQL, SQLite, relational databases, Git and GitHub
 
-## Project Context
+## Team Context
 
-This was a three person team project. This repository contains the portion I personally contributed and does not present the complete team application as my individual work.
+This was completed by a three person team. This repository contains the portion I personally contributed and does not present the complete team application as my individual work.
