@@ -34,3 +34,11 @@ Python, SQL, SQLite, relational databases, Git and GitHub
 ## Team Context
 
 This was completed by a three person team. This repository contains the portion I personally contributed and does not present the complete team application as my individual work.
+
+## How to Run
+
+Requires Python 3 (standard library only, no packages to install). Run the standalone smoke test, which builds a sample in-memory SQLite database and prints the output of each query function:
+
+```
+python queries.py
+```
