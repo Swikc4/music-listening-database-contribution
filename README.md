@@ -4,7 +4,7 @@
 <div align="center">
   <h3 align="center">Music Listening Database Application Contribution</h3>
   <p align="center">
-    The SQL query module I contributed to a team-built Python and SQLite music database - a CIS 3120 team assignment at Baruch College
+    The SQL query module I contributed to a team-built Python and SQLite music database, a CIS 3120 team assignment at Baruch College
     <br />
     <a href="https://github.com/Swikc4/music-listening-database-contribution"><strong>Explore the repo »</strong></a>
   </p>
@@ -58,7 +58,7 @@ The queries use JOIN, LEFT JOIN, GROUP BY, COUNT, aggregate functions, ordering,
 
 ### Prerequisites
 
-* Python 3 (standard library only - no packages to install)
+* Python 3 (standard library only, no packages to install)
 
 ### Installation
 
