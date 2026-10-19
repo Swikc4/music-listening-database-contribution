@@ -25,7 +25,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#original-contribution">Original Contribution</a></li>
     <li><a href="#team-context">Team Context</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -105,17 +104,6 @@ This was completed by a three person team. This repository contains the portion 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contact
-
-Swikriti KC - [LinkedIn](https://www.linkedin.com/in/swikriti-kc/)
-
-Project Link: [https://github.com/Swikc4/music-listening-database-contribution](https://github.com/Swikc4/music-listening-database-contribution)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Acknowledgments
 
 * CIS 3120 Programming for Analytics, Baruch College (Zicklin School of Business)
-* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
